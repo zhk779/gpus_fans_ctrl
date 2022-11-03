@@ -1,6 +1,6 @@
-# gpus_fans_ctrl
-  * Automatically control your gpus’ fans according the temperature of gpus
-  * 根据显卡温度自动控制显卡的风扇速度
+# gpus_fans_ctrl 
+  * Automatically control your gpus’ fans according the temperature of gpus（Only need desktop and nvidia driver）
+  * 根据显卡温度自动控制显卡的风扇速度（只需要具备桌面环境以及英伟达显卡驱动）
 
 ## Before use on your machine (使用前的准备)
   * 1 Install nVidia驱动（安装nVidia驱动）
