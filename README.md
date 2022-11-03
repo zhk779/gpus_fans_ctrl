@@ -7,10 +7,7 @@
   * 2 Your machine must have a desktop like gnome... （有桌面环境）
   
 ## How to us？
-  * 1 clone this project
-  ```
-  clone https://github.com/zhk779/gpus_fans_ctrl
-  ```
+  * 1 download the bash file in the repository
   * 2 run below code in the Terminal
   ```
   # start a Terminal in your desktop and run
